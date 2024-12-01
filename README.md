@@ -4,12 +4,9 @@ Welcome to **VEETY - R.A.T**! 🚀 This repository introduces an innovative and 
 <H2>Hassle-Free Networking | No PORT forwarding and NETWORK configurations R.A.T</H2>
 
 <p> !! IT'S BETA - JOIN TO OUR COMMUNITY and BE A EARLY MEMBER! </p>
+My Telegram - https://t.me/hidden9090
 
-
-[![Join Our Community]https://t.me/hidden9090
-
-
-![VEETY Screenshot](https://camo.githubusercontent.com/a7f805ad7cba5581881f0c0a3e565178e43b6b53b7a58407eac0221c62683cf0/68747470733a2f2f692e696d6775722e636f6d2f5358656b7938322e676966)
+![ Screenshot](https://camo.githubusercontent.com/a7f805ad7cba5581881f0c0a3e565178e43b6b53b7a58407eac0221c62683cf0/68747470733a2f2f692e696d6775722e636f6d2f5358656b7938322e676966)
 
 ## ✨ Features
 
