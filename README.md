@@ -41,3 +41,7 @@ VEETY is intended for authorized testing and educational purposes only. Unauthor
 ---
 no port forwarding.
 Thank you for being a part of the VEETY community! 🌐 Let's build something amazing together.
+
+CONTACT :- MY TELEGRAM - https://t.me/hidden9090
+
+
