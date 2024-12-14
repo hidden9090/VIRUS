@@ -37,7 +37,7 @@ Your input is crucial in making VEETY better. Whether it's adding new features, 
 ## 🛡 Legal Disclaimer
 
 VEETY is intended for authorized testing and educational purposes only. Unauthorized use of VEETY on devices you do not own or have explicit permission to test is illegal and unethical.
-
+       
 ---
 no port forwarding.
 Thank you for being a part of the VEETY community! 🌐 Let's build something amazing together.
