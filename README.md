@@ -44,4 +44,5 @@ Thank you for being a part of the VEETY community! 🌐 Let's build something am
 
 CONTACT :- MY TELEGRAM - https://t.me/hidden9090
 
+https://t.me/+1tDzjSCGDDs0ODA9
 
