@@ -17,7 +17,7 @@ Text my team
 ### 🌟 Innovative & Fresh UI
 VEETY offers a modern and intuitive interface that makes remote access a breeze. No more clunky designs—enjoy a sleek and aesthetically pleasing experience.
 
-### 🚀 Hassle-Free Networking
+### 🚀 Hassle-Free Networking 
 Say goodbye to the complexities of **port forwarding and network configurations**. **VEETY hosts everything for you**, making the setup process **seamless and straightforward**.
 
 ### 🎛 All-In-One Solution
